@@ -1,8 +1,8 @@
 
 function updir() {
   if [[ -z "$1" ]]; then
-    echo "Usage: zdir <steps>"
-    echo "Example: zdir 1"
+    echo "Usage: updir <steps>"
+    echo "Example: updir 1"
     return 1
   fi
 
