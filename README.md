@@ -23,6 +23,7 @@ The above command moves up one directory level from the current directory. Easy 
 2. Make the Script Executable
 
 `chmod +x /usr/local/bin/updir.sh`
+
 3. Source the Script in Your Shell Configuration
 
 To make the updir function available in your shell, add the following line to your shell configuration file (e.g., .bashrc or .zshrc).
